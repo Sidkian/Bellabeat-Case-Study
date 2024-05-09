@@ -11,6 +11,8 @@ knowledge about their own health and habits.
 
 ## Business Task
 
+Source: [Bellabeat-Case-Study-Task-Description](https://github.com/Sidkian/Bellabeat-Case-Study/blob/main/Bellabeat-Case-Study-Task-Description.pdf)
+
 Analyze smart device usage data in order to gain insight into how consumers use non-Bellabeat smart
 devices and provide rercommendaions to inform Bellabeat marketing strategy.
 
@@ -27,13 +29,13 @@ Documentation: [Data Processing](https://github.com/Sidkian/Bellabeat-Case-Study
 
 The data is divided into 3 types: Daily, Hourly and by Minute
 
-The data processing is performed in python file: [Data Cleaning](https://github.com/Sidkian/Bellabeat-Case-Study/blob/main/Data%20Cleaning.ipynb)
+The data processing is performed in python file: [Data Cleaning.ipynb](https://github.com/Sidkian/Bellabeat-Case-Study/blob/main/Data%20Cleaning.ipynb)
 
 ## Data Analysis
 
 Documentation: [Data Analysis](https://github.com/Sidkian/Bellabeat-Case-Study/blob/main/Documentation/Data_Analysis.md)
 
-Data Analysis and Visualization is performed in python file: [Data Analysis](https://github.com/Sidkian/Bellabeat-Case-Study/blob/main/Data%20Analysis.ipynb)
+Data Analysis and Visualization is performed in python file: [Data Analysis.ipynb](https://github.com/Sidkian/Bellabeat-Case-Study/blob/main/Data%20Analysis.ipynb)
 
 ## Summary
 
