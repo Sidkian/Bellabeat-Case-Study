@@ -1,20 +1,27 @@
 # Bellabeat Case Study
 
+Technology Used: Python, NumPy, Pandas, MatplotLib, Seaborn
+
 ## Abstract
 
-This case study is a part of the Google Data Analytics Certificate. Python is used to process and clean the data and create visualizations to gain insights.
+This case study is a part of the Google Data Analytics Certificate.
+
+The task is to analyze smart device data and present findings along with high-level recommendations for Bellabeat's marketing strategy by assuming the role of a junior data analyst working on the marketing analyst team at Bellabeat.
+
+## Objective
+
+Source: [Bellabeat-Case-Study-Task-Description](https://github.com/Sidkian/Bellabeat-Case-Study/blob/main/Bellabeat-Case-Study-Task-Description.pdf)
+
+* Prepare and process a dataset on smart fitness device 
+* Analyze smart device fitness data usage in order to gain insight into how consumers use non-Bellabeat smart devices
+* Apply these insights on Bellabeat Products and provide recommendaions for Bellabeat's marketing strategy
+
+## About the Company
 
 Bellabeat is a high-tech company that manufactures health-focused smart products for women. Their mission is to empower women to reconnect with themselves, unleash their inner strengths and be what they were meant to be.
 
 They have a range of products such as Leaf (wellness tracker), Time (wellness watch), Spring (smart water bottle), Bellabeat app & membership, etc that collect data on activity, sleep, stress, and reproductive health and provide women with
 knowledge about their own health and habits.
-
-## Business Task
-
-Source: [Bellabeat-Case-Study-Task-Description](https://github.com/Sidkian/Bellabeat-Case-Study/blob/main/Bellabeat-Case-Study-Task-Description.pdf)
-
-Analyze smart device usage data in order to gain insight into how consumers use non-Bellabeat smart
-devices and provide rercommendaions to inform Bellabeat marketing strategy.
 
 ## Dataset
 
@@ -46,7 +53,4 @@ The analysis of personal fitness data from fibit users yeilded key insights on:
 * how many hours of sleep do users get and on what days they get the most sleep
 * how often do users use their fitbit and for how long
 
-Based on these insights, recommendations were provided to on marketing strategies for Bellabeat products
-
-
-
+Based on these insights, recommendations were provided on marketing strategies for Bellabeat products
